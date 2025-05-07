@@ -18,7 +18,7 @@ This is a simple, responsive portfolio built with **HTML and CSS**, designed to 
 - 💻 Responsive layout for mobile and desktop
 - 🚀 Hero section with call-to-action
 - 📁 Project grid section
-- 📬 Contact form powered by [FormSubmit](https://formsubmit.co/)
+- 📬 Contact form powered by [FormSubmit]
 - 🎨 Easily customizable CSS (`main.css`)
 
 ------         --------         ------
@@ -50,12 +50,6 @@ project-folder/
 - Add animations (CSS or JS)
 - Improve accessibility
 - Add dark mode toggle
-
-------         --------         ------
-
-## 📎 License
-
-This project is open source and free to use under the [MIT License](LICENSE) (if you choose to add one).
 
 ------         --------         ------
 
