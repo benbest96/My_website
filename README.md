@@ -1,6 +1,6 @@
  🌐 Cloud Engineer Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases my background as a **Cloud Engineer**, highlights a few sample projects, and includes a contact form for professional inquiries.
+Welcome to my personal portfolio website! .
 
 ------         --------         ------
 
@@ -56,4 +56,4 @@ project-folder/
 ## 🙋‍♂️ Author
 
 **Ben Nzuzi**  
-Cloud Engineer • System Administrator • Network Administrator
+Cloud Engineer • System Administrator • Developper
